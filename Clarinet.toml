@@ -15,6 +15,11 @@ path = 'contracts/content-verification.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.learning-path]
+path = 'contracts/learning-path.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.student-identity]
 path = 'contracts/student-identity.clar'
 clarity_version = 2
