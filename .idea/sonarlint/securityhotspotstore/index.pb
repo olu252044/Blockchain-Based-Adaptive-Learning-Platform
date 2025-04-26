@@ -5,3 +5,5 @@ O
 contracts/student-identity.clar,c/b/cb2d62c7d9b8b5ae82f034699a65a6c6c5005dca
 S
 #contracts/content-verification.clar,2/8/289fbe8e8f43926f420260b9fd7b2e7950e33e8e
+R
+"contracts/assessment-tracking.clar,7/2/72f5eeb47315bcecd65d33be9e0bfcf38ad00d6a
